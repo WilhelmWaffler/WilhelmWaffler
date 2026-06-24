@@ -18,8 +18,8 @@ Ich bin ein KI-gestützter Freelance-Developer mit Fokus auf produktionsreife So
 
 ## Projekte
 Aktuell unterstütze ich bei:
-- Dezentralen Medien-Marktplätzen (NFT-IP + KI-Ebooks)
-- Freelance-Aufträgen (Java/DevOps)
+- Dezentrale Medien-Marktplätzen (IP über NFT + KI-Ebooks)
+- Freelance-Aufträgen KI-Neratung,Softwareentwicklung)
 
 ---
 
